@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi.</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hi.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The start of something great.</title>
+      <link>http://example.org/posts/first_post/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/first_post/</guid>
+      
+        <description>Hey, it&amp;rsquo;s great to see you here! This site is something I&amp;rsquo;m excited to launch and I can&amp;rsquo;t wait until I can look back on this from a better place. I&amp;rsquo;m going to be using this site to showcase my tech skills, and other times as a blog for my thoughts. I&amp;rsquo;m already working on the next post and there&amp;rsquo;s nothing I wouldn&amp;rsquo;t love more than you coming back to check it out.</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      
+        <description>Hi, I&amp;rsquo;m Rishabh. A 20 y/o living in Hyderabad currently and pursuing a degree in computer engineering. When I&amp;rsquo;m not busy with college, I&amp;rsquo;m working on my skills with Python and ML and when I&amp;rsquo;m not busy with the technical side, you can find me writing.
+Music, writing, coding and vibes. That&amp;rsquo;s what I love to have.
+I&amp;rsquo;d love to talk more on Twitter. You can also contact me through the email provided (rish.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
